@@ -33,5 +33,3 @@ The model was evaluated using Mean Absolute Error Root Mean Squared Error and R 
 ## Conclusion
 The model was able to predict sales with reasonable accuracy and the results align with real world marketing trends.
 
-## Author
-Praneetha Rudraraju
